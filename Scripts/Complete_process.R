@@ -48,7 +48,7 @@ setwd("Your/Directory")
 dir.create("Data")
 
 # loading functions prepared for running some analyses
-source("GITHUB/REPO/00_Functions.R")
+source("https://raw.githubusercontent.com/marlonecobos/Spirodelap_ENM/main/Scripts/00_Functions.R")
 # ------------------------------------------------------------------------------
 
 
